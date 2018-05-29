@@ -1,0 +1,44 @@
+img {
+    width: 50%;
+        border: px solid black
+            
+}
+
+* {
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua;
+    color:azure
+}
+
+#coast {
+    border: 1em solid purple;
+    
+}
+
+
+#frog {
+    border: 1em solid purple;
+    
+}
+
+p {
+    font-size: 10em;
+    color: hotpink
+}
+
+header {
+    font-size: 10em;
+    color:hotpink
+    
+}
+
+.song {
+    width: 100%
+    background-color: blue
+    font-family: 'Lato', sans-serif;
+}
